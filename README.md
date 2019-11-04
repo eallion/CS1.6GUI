@@ -1,3 +1,5 @@
+下载：[snaiL_CS1.6_GUI](https://github.com/eallion/snaiL_CS1.6_GUI/releases/latest)
+
 ### 使用方法：
 (本GUI主要是用于nosteam版本.可以全部直接解压到CS主目录)
 
