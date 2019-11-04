@@ -1,0 +1,1 @@
+-game cstrike -gl -noipx -hisap -noforcemaccel -noforcemparms -noforcemspd -nojoy -freq -120 -32bpp -w 640 -h 480 -heapsize 760000
